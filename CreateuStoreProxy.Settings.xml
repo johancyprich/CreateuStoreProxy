@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<uStoreProxySettings>
+  <Server>
+    <Host></Host>
+    <Database></Database>
+    <User></User>
+    <Password></Password>
+  </Server>
+  <Heliocon>
+    <RegistrationName></RegistrationName>
+    <RegistrationCode></RegistrationCode>
+  </Heliocon>
+  <Paths>
+    <Output></Output>
+  </Paths>
+</uStoreProxySettings>
