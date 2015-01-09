@@ -1,9 +1,9 @@
 ﻿**CreateuStoreProxy**
 ==============
 
-Written by Johan Cyprich (jcyprich@live.com).
-Version: 1.0.0
-December 23, 2014
+Written by Johan Cyprich (jcyprich@live.com)<br />
+Version: 1.0.0<br />
+December 23, 2014<br />
 License: The MIT License (MIT)
 
 
