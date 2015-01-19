@@ -48,16 +48,16 @@ SETUP
 The *CreateStoreProxy.Settings.xml* file needs to be setup correctly in order for this app to work. The 
 following describes each variable to set:
 
-<Server><br />
+Server:<br />
   Host: the uStore database server<br />
   Database: the uStore database name, its probably uStore<br />
   User: the username to access the uStore database<br />
   Passowrd: the password for the User to access the database<br />
 
-<Helicon><br />
+Helicon:<br />
   RegistrationName: you can find this in the Helicon httpd.conf under the *# Registration info* section<br />
   RegistrationCode: you can find this in the Helicon httpd.conf under the *# Registration info* section<br />
 
-<Paths><br />
+Paths:<br />
   Output: the path to the Helicon folder where the httpd.conf is written. The path should be similar to<br />
           \\<Proxy Server IP>\c$\Program Files\Helicon\ISAPI_Rewrite3<br />
