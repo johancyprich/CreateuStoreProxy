@@ -1,6 +1,6 @@
-﻿/// APPLICATION: CreateuStoreProxy
-/// VERSION: 1.0.0
-/// DATE: December 23, 2014
+/// APPLICATION: CreateuStoreProxy
+/// VERSION: 1.0.1
+/// DATE: January 19, 2015
 /// AUTHOR: Johan Cyprich
 /// AUTHOR URL: www.cyprich.com
 /// AUTHOR EMAIL: jcyprich@live.com
@@ -33,7 +33,9 @@
 /// local folder and then copied to the proxy server path defined by _outputPath.
 
 
-//#define DEBUG                          // used to give a ReadKey prompt after app installs new .conf file
+// Used to give a ReadKey prompt after app installs new .conf file if app is run from
+// the Windows desktop. Comment this out if run in command line mode.
+#define DESKTOP
 
 
 using System;
@@ -279,7 +281,7 @@ namespace CreateuStoreProxy
     /// SUMMARY:
     /// Copy the httpd.conf created in the application folder to the uStore server. The existing
     /// .conf file will be renamed before the new file is copied to the folder. The old file will
-    /// have the date (YYYYMMDD) appended to its filename.
+    /// have the date (YYYYMMDD-HHMMSS) appended to its filename.
     ///
     /// GLOBAL VARIABLES:
     ///   _appFolder
@@ -294,8 +296,9 @@ namespace CreateuStoreProxy
 
         // Rename active httpd.conf to httpd.conf.YYYYMMDD
 
-        File.Move (_outputPath + @"\httpd.conf", 
-                   _outputPath + @"\httpd.conf." + nowDate.Year.ToString () + nowDate.Month.ToString () + nowDate.Day.ToString ());
+        File.Move (_outputPath + @"\httpd.conf",
+                   _outputPath + @"\httpd.conf." + nowDate.Year.ToString () + nowDate.Month.ToString ("00") + nowDate.Day.ToString ("00") + "-" 
+                                                 + nowDate.Hour.ToString ("00") + nowDate.Minute.ToString ("00") + nowDate.Second.ToString ("00"));
 
         // Copy new httpd.conf to uStore Proxy server.
 
@@ -311,7 +314,7 @@ namespace CreateuStoreProxy
     {
       Console.WriteLine ("Create uStore Proxy 1.0.0");
       Console.WriteLine ("by Johan Cyprich");
-      Console.WriteLine ("Copyright (C) 2014 Johan Cyprich. All rights reserved.");
+      Console.WriteLine ("Copyright (C) 2014-2015 Johan Cyprich. All rights reserved.");
       Console.WriteLine ("Licenced under the MIT License.");
       Console.WriteLine ("");
 
@@ -331,7 +334,7 @@ namespace CreateuStoreProxy
 
       Console.WriteLine ("httpd.conf generated");
 
-#if DEBUG
+#if DESKTOP
       Console.ReadKey ();
 #endif
     } // static void Main (string [] args)
