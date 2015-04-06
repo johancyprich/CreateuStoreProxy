@@ -45,8 +45,7 @@ current date and time (YYYYMMDD-HHMMSS) appended to its filename.
 
 SETUP
 -----
-The *CreateStoreProxy.Settings.xml* file needs to be setup correctly in order for this app to work. The 
-following describes each variable to set:
+The *Executable* folder contains an .exe for running the application and an .xml for modification. The *CreateStoreProxy.Settings.xml* file needs to be setup correctly in order for this app to work. The following describes each variable to set:
 
 Server:<br />
   Host: the uStore database server<br />
