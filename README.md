@@ -13,7 +13,7 @@ Windowx XP, Vista, 7, 8, 2008, 2012<br />
 .NET 4.0
 
 Tested on<br />
-  - uStore 7.3.<br />
+  - uStore 7.3., 8.2<br />
   - Helicon ISAPI_Rewrite 3.1.0.99
 
 DESCRIPTION
