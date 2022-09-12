@@ -1,5 +1,0 @@
-D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\obj\Debug\CreateuStoreProxy.csprojResolveAssemblyReference.cache
-D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\bin\Debug\CreateuStoreProxy.exe
-D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\bin\Debug\CreateuStoreProxy.pdb
-D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\obj\Debug\CreateuStoreProxy.exe
-D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\obj\Debug\CreateuStoreProxy.pdb
