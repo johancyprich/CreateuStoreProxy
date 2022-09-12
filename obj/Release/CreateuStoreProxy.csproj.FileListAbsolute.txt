@@ -1,0 +1,23 @@
+D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\bin\Release\CreateuStoreProxy.exe
+D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\bin\Release\CreateuStoreProxy.pdb
+D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\obj\Release\CreateuStoreProxy.csprojResolveAssemblyReference.cache
+D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\obj\Release\CreateuStoreProxy.exe
+D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\obj\Release\CreateuStoreProxy.pdb
+D:\Projects\Applications\CreateuStoreProxy\1.0.0\CreateuStoreProxy\obj\Release\CreateuStoreProxy.exe
+D:\Projects\Applications\CreateuStoreProxy\1.0.0\CreateuStoreProxy\obj\Release\CreateuStoreProxy.pdb
+D:\Projects\Applications\CreateuStoreProxy\1.0.0\CreateuStoreProxy\bin\Release\CreateuStoreProxy.exe
+D:\Projects\Applications\CreateuStoreProxy\1.0.0\CreateuStoreProxy\bin\Release\CreateuStoreProxy.pdb
+D:\Projects\Applications\CreateuStoreProxy\1.0.0\CreateuStoreProxy\obj\Release\CreateuStoreProxy.csprojResolveAssemblyReference.cache
+D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\CreateuStoreProxy\obj\Release\CreateuStoreProxy.exe
+D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\CreateuStoreProxy\obj\Release\CreateuStoreProxy.pdb
+D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\CreateuStoreProxy\bin\Release\CreateuStoreProxy.exe
+D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\CreateuStoreProxy\bin\Release\CreateuStoreProxy.pdb
+D:\Projects\Applications\CreateuStoreProxy\CreateuStoreProxy\CreateuStoreProxy\obj\Release\CreateuStoreProxy.csprojResolveAssemblyReference.cache
+D:\Projects\Applications\CreateuStoreProxy\Versions\1.0.1\CreateuStoreProxy\obj\Release\CreateuStoreProxy.exe
+D:\Projects\Applications\CreateuStoreProxy\Versions\1.0.1\CreateuStoreProxy\obj\Release\CreateuStoreProxy.pdb
+D:\Projects\Applications\Console App\CreateuStoreProxy\CreateuStoreProxy\CreateuStoreProxy\bin\Release\CreateuStoreProxy.exe
+D:\Projects\Applications\Console App\CreateuStoreProxy\CreateuStoreProxy\CreateuStoreProxy\bin\Release\CreateuStoreProxy.pdb
+D:\Projects\Applications\Console App\CreateuStoreProxy\CreateuStoreProxy\CreateuStoreProxy\obj\Release\CreateuStoreProxy.csprojAssemblyReference.cache
+D:\Projects\Applications\Console App\CreateuStoreProxy\CreateuStoreProxy\CreateuStoreProxy\obj\Release\CreateuStoreProxy.csproj.CoreCompileInputs.cache
+D:\Projects\Applications\Console App\CreateuStoreProxy\CreateuStoreProxy\CreateuStoreProxy\obj\Release\CreateuStoreProxy.exe
+D:\Projects\Applications\Console App\CreateuStoreProxy\CreateuStoreProxy\CreateuStoreProxy\obj\Release\CreateuStoreProxy.pdb
